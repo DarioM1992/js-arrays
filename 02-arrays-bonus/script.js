@@ -38,5 +38,7 @@ console.log(teachers);
 // e salva il risultato nella variabile isFabioPresent
 const isFabioPresent = null;
 
+}
+
 // 5. Unisci tutti gli insegnanti nell'array teachers in una stringa  separata da virgole e salvala nella variabile teachersString
 const teachersString = null;
